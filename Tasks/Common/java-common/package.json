@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Microsoft/vsts-tasks#readme",
   "dependencies": {
     "vsts-task-lib": "1.1.0",
-    "semver": "^5.1.0"
+    "semver": "^5.7.2"
   }
 }
