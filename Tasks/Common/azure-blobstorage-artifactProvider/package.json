@@ -15,7 +15,7 @@
   "dependencies": {
     "q": "1.4.1",
     "artifact-engine": "0.1.14",
-    "azure-storage": "2.2.1",
+    "azure-storage": "2.10.7",
     "vsts-task-lib": "2.1.0"
   }
 }
